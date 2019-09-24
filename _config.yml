@@ -4,3 +4,5 @@ description: Information on the University of Wisconsin - Madison's Carpentries 
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+dshweb: https://hub.datascience.wisc.edu/
+carpentries: https://carpentries.org/
