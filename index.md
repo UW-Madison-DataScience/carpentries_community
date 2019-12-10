@@ -10,7 +10,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 | Data Carpentry                  | Software Carpentry    |
 |:--------------------------------|:----------------------|
-| <a href="https://uw-madison-datascience.github.io/2019-09-11-uwmadison-dc/">Sept. 11–Oct. 9, 2019 (Ecology)</a>            | Sept. 11-Oct. 9, 2019 | <a href="https://uw-madison-datascience.github.io/2019-09-11-uwmadison-swc">September 11-October 9, 2019</a> |
+| <a href="https://uw-madison-datascience.github.io/2019-09-11-uwmadison-dc/">Sept. 11–Oct. 9, 2019 (Ecology)</a>            | Sept. 11-Oct. 9, 2019 | <a href="https://uw-madison-datascience.github.io/2019-09-11-uwmadison-swc"><a href ="https://uw-madison-datascience.github.io/2019-09-11-uwmadison-swc">September 11-October 9, 2019</a> |
 | <a href="https://uw-madison-datascience.github.io/2019-08-05-uwmadison-dc">Aug. 5-6, 12, 2019 (Genomics)</a> | <a href="https://uw-madison-datascience.github.io/2019-06-13-uwmadison-swc/">June 13-14, 2019</a> |
 | <a href="https://uw-madison-datascience.github.io/2019-07-11-uwmadison-dc">Jul. 11-12, 2019 (Geospatial)</a> | <a href="https://uw-madison-datascience.github.io/2019-01-14-uwmadison-swc/">Jan. 14-15, 2019 </a> |
 | <a href="https://uw-madison-datascience.github.io/2019-06-27-uwmadison-dc/">Jun. 27-28, 2019 (REU / Undergraduates only)</a> | <a href="https://uw-madison-aci.github.io/2018-08-29-uwmadison-swc">Aug. 29-30, 2018 </a> |
