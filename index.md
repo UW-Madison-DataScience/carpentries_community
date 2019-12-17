@@ -1,10 +1,7 @@
----
-layout: default
----
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
+# Upcoming Workshops
+| Data Carpentry                  | Software Carpentry    |
+|:--------------------------------|:----------------------|
+| | <a href="https://uw-madison-datascience.github.io/2020-01-22-uwmadison-swc/">January 22-23, 2020</a>
 
 # Past Workshops
 
