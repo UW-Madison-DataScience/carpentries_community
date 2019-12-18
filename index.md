@@ -2,7 +2,7 @@
 # Upcoming Workshops
 | Data Carpentry                  | Software Carpentry    |
 |:--------------------------------|:----------------------|
-| March 2020 (more details TBD) | <a href="https://uw-madison-datascience.github.io/2020-01-22-uwmadison-swc/">January 22-23, 2020</a>
+| March 2020 (more details TBD) | <a href="https://uw-madison-datascience.github.io/2020-01-22-uwmadison-swc/">January 22-23, 2020</a> |
 
 # Past Workshops
 
