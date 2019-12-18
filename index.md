@@ -1,5 +1,5 @@
 # Instructor Development Meetings
-Instructors and helpers meet once a month to discuss the lessons that we teach, teaching methods & pedagogy, 
+Instructors and helpers meet once a month to discuss the lessons that we teach, teaching methods & pedagogy, and ways to build the Carpentries community at UW-Madison. We meet on the 2nd Thursday of each month from 10-11 a.m., in 1153/54 Discovery Building.
 
 # Upcoming Workshops
 
